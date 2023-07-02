@@ -1,5 +1,5 @@
 div.bold-text {
-    font-weight: bold;;
+    font-weight: bold;
     height: 200px;
 }
 * {
@@ -8,13 +8,10 @@ div.bold-text {
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
-.container1, .container2 {
-    color: white;
-    align-content: center;
-    background-color: lightslategray;
-    text-align: center;
-    border: 2px solid #234864;
-}
-a, h2 {
-    text-transform: uppercase;
+#containers {
+        color: white;
+        align-content: center;
+        background-color: lightslategray;
+        text-align: center;
+        border: 2px solid #234864;
 }
